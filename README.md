@@ -1,9 +1,9 @@
 # gist-604b-assignment2
 GIST 604B Assignment 2: QGIS Desktop GIS Projects
 
-This repository showcases introductory skills developed using QGIS, a free, open-source geographic information system software. Included in this repository are .qgs files with layers and completed styiling and/or spatial analyses that correspond to the tutorials found on QGIS.com. These tutorials all fall under "basic" and "intermediate GIS operations." You can find the complete list of tutorials [HERE](https://www.qgistutorials.com/en/index.html). Skills represented in this repository include statistical analyses, raster styling, spatial and table joins, and performing spatial queries.
+This repository showcases introductory skills developed using QGIS, a free, open-source geographic information system software. Included in this repository are .qgz files with layers and completed styiling and/or spatial analyses that correspond to the tutorials found on QGIS.com. These tutorials all fall under "basic" and "intermediate GIS operations." You can find the complete list of tutorials [HERE](https://www.qgistutorials.com/en/index.html). Skills represented in this repository include statistical analyses, raster styling, spatial and table joins, and performing spatial queries.
 
-These tutorials were completed using QGIS 4.0 using a UNIX (macOS) operating system. No plug-ins were used in these .qgs files.
+These tutorials were completed using QGIS 4.0 using a UNIX (macOS) operating system. No plug-ins were used in these .qgz files.
 
 Tutorials completed in this repository:
 - [Making a map](https://www.qgistutorials.com/en/docs/3/making_a_map.html)
