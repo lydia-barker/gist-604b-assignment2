@@ -28,27 +28,29 @@ Reflection
 After getting familiar with QGIS, the basic layout, and capabilities, it is clear that there are many similarities between this software and ArcGIS Pro. I am very comfortable using ESRI's ArcGIS Pro software, so using QGIS became easier as I went through the tutorials. I am still getting familiar with using script to perform filtering and analysis. However, I am starting to pick up on the syntax used in QGIS, and this will certainly help me start to encorporate additional code-based operations in the work that I do as a transportation planner for the City of Tucson. For example, I work on creating public-facing, interactive web maps to keep community members up to date with project statuses. Developing code for symbology would help me reduce the amount of time I spend changing the symbology one-by-one on maps that show various status types (planned, in design, in construction, completed...). I also know that ESRI programs cost the City, and many other government/non-profits, a lot of money every year. If more staff knew how to use free, open-source tools like QGIS, that money could be re-directed back into programs and projects needed by our communities. 
 
 Repository Structure
+```
 /
 ├── README.md
 ├── projects/
-│   ├── making_a_map_barker.qgz
-│   ├── working_with_projections_barker.qgz
-│   ├── working_with_attributes_barker.qgz
-│   ├── importing_spreadsheets_csv_barker.qgz
-│   ├── basic_vector_styling_barker.qgz
-│   ├── basic_raster_styling_analysis_barker.qgz
-│   ├── performing_table_joins_barker.qgz
-│   ├── performing_spatial_joins_barker.qgz
-│   ├── performing_spatial_queries_barker.qgz
-│   └── chosen_tutorial_name_barker.qgz
+│   ├── making_a_map_YOUR_LASTNAME.qgz
+│   ├── working_with_projections_YOUR_LASTNAME.qgz
+│   ├── working_with_attributes_YOUR_LASTNAME.qgz
+│   ├── importing_spreadsheets_csv_YOUR_LASTNAME.qgz
+│   ├── basic_vector_styling_YOUR_LASTNAME.qgz
+│   ├── basic_raster_styling_analysis_YOUR_LASTNAME.qgz
+│   ├── performing_table_joins_YOUR_LASTNAME.qgz
+│   ├── performing_spatial_joins_YOUR_LASTNAME.qgz
+│   ├── performing_spatial_queries_YOUR_LASTNAME.qgz
+│   └── chosen_tutorial_name_YOUR_LASTNAME.qgz
 └── outputs/
-    ├── making_a_map_barker.png
-    ├── working_with_projections_barker.png
-    ├── working_with_attributes_barker.png
-    ├── importing_spreadsheets_csv_barker.png
-    ├── basic_vector_styling_barker.png
-    ├── basic_raster_styling_analysis_barker.png
-    ├── performing_table_joins_barker.png
-    ├── performing_spatial_joins_barker.png
-    ├── performing_spatial_queries_barker.png
-    └── chosen_tutorial_name_barker.png
+    ├── making_a_map_YOUR_LASTNAME.png
+    ├── working_with_projections_YOUR_LASTNAME.png
+    ├── working_with_attributes_YOUR_LASTNAME.png
+    ├── importing_spreadsheets_csv_YOUR_LASTNAME.png
+    ├── basic_vector_styling_YOUR_LASTNAME.png
+    ├── basic_raster_styling_analysis_YOUR_LASTNAME.png
+    ├── performing_table_joins_YOUR_LASTNAME.png
+    ├── performing_spatial_joins_YOUR_LASTNAME.png
+    ├── performing_spatial_queries_YOUR_LASTNAME.png
+    └── chosen_tutorial_name_YOUR_LASTNAME.png
+```
